@@ -17,7 +17,7 @@ The objective of this project is to predict customer churn based on key features
 
 Key Features:
 - **Prediction Accuracy**: Achieved 89% validation accuracy.
-- **Model Architecture**: 5 hidden layers, ReLU activation for hidden layers, and sigmoid activation for the output layer.
+- **Model Architecture**: 3 hidden layers with 3000 trainable parameters, ReLU activation for hidden layers, and sigmoid activation for the output layer.
 - **Optimizer**: Adam optimizer with log loss minimization.
 - **Visualization**: Training performance visualized using TensorBoard.
   
